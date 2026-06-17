@@ -1,48 +1,117 @@
-TIME TO PAWS — PRIVACY POLICY
-Effective date: 1 June 2025
-Last updated: 17 June 2026
-App: Time to Paws
-Developer: APK Studio
-OVERVIEW
-Time to Paws is a mindfulness bell and breathing exercise app. It is designed with privacy at its core — the app does not collect, transmit, or share any personal data whatsoever.
-DATA WE COLLECT
-None. Time to Paws does not collect any personal information, usage analytics, crash reports, device identifiers, location data, or any other form of user data. There are no accounts, no sign-ins, no analytics SDKs, no advertising SDKs, and no third-party services that receive data from this app.
-DATA STORED ON YOUR DEVICE
+# Time to Paws — Privacy Policy
+
+**Effective date:** 1 June 2025  
+**Last updated:** 17 June 2026  
+**App:** Time to Paws  
+**Developer:** APK Studio
+
+---
+
+## Overview
+
+Time to Paws is a mindfulness bell and breathing exercise app. It is designed with privacy at its core — the app does not collect, transmit, or share any personal data whatsoever. The app has no user accounts and no sign-in.
+
+---
+
+## Data We Collect
+
+**None.** Time to Paws does not collect any personal information, usage analytics, crash reports, device identifiers, location data, or any other form of user data. There are no accounts, no sign-ins, no analytics SDKs, no advertising SDKs, and no third-party services that receive data from this app.
+
+---
+
+## Data Stored on Your Device
+
 The app stores the following information locally on your device using Android SharedPreferences:
-Your reminder bell preferences (active days, schedule)
-Your chosen bell/cat sound (Meow, Purr, or Murr)
-Your selected breathing pattern (e.g. 4-4-4-4, 5-5, 4-6, 2-4)
-Notification permission state
-Pending Android alarm entries (used to trigger the bell)
+
+- Your reminder bell preferences (active days, schedule)
+- Your chosen bell/cat sound (Meow, Purr, or Murr)
+- Your selected breathing pattern (e.g. 4-4-4-4, 5-5, 4-6, 2-4)
+- Which paid features or add-ons you have unlocked (entitlement status)
+- Notification permission state
+- Pending Android alarm entries (used to trigger the bell)
+
 This data never leaves your device. It is not transmitted to any server, cloud service, or third party.
-DATA RETENTION
-Since Time to Paws does not collect or transmit any user data to external servers, there is no data retained by the developer or any third party. All preferences and settings are stored exclusively on your device for as long as the app is installed.
-When you uninstall the app, all locally stored data is permanently and automatically deleted by the Android operating system. There is no residual data, no backups on our servers, and no way for us to recover any information after uninstallation.
-You may also clear the app's data at any time through your device's Settings > Apps > Time to Paws > Storage > Clear Data. This will reset all preferences to their defaults.
-DATA SHARING
+
+---
+
+## Data Retention
+
+Since Time to Paws does not collect or transmit any user data to external servers, **there is no data retained by the developer or any third party**. All preferences and settings are stored exclusively on your device for as long as the app is installed.
+
+**When you uninstall the app, all locally stored data is permanently and automatically deleted by the Android operating system.** There is no residual data, no backups on our servers, and no way for us to recover any information after uninstallation.
+
+You may also clear the app's data at any time through your device's **Settings → Apps → Time to Paws → Storage → Clear Data**. This will reset all preferences to their defaults.
+
+---
+
+## Data Sharing
+
 We do not share any data with third parties because we do not collect any data. There are no analytics providers, advertising networks, or data brokers involved in this app.
-PURCHASES
-Time to Paws offers optional one-time "Support this app" tips through Google Play's billing system. If you choose to make a tip, the transaction is processed entirely by Google Play; we never see or store your payment details. The app does not receive or retain any personal or financial information from these purchases. Tipping is entirely optional and is not required to use any feature of the app. Google's handling of payment data is governed by the Google Play Terms of Service (https://play.google.com/intl/en_us/about/play-terms/ ) and Google's Privacy Policy.
-NOTIFICATIONS & PERMISSIONS
+
+---
+
+## Purchases and In-App Purchases
+
+Time to Paws offers optional paid in-app purchases. These include unlockable features and add-ons — for example, additional breathing patterns beyond the free 4-4-4-4 pattern, and other customizable add-ons that may be offered in the future — as well as optional one-time "Support this app" tips.
+
+All purchases are processed entirely by **Google Play's billing system**. We never see, receive, or store your name, payment card, or any other financial or personal information. Your purchase and entitlement status (which features or add-ons you have unlocked) is verified through Google Play and stored locally on your device. There are **no user accounts** and we do **not** maintain any server-side record of your purchases.
+
+The free features of the app remain fully usable without making any purchase. Google's handling of payment data is governed by the [Google Play Terms of Service](https://play.google.com/intl/en_us/about/play-terms/) and Google's Privacy Policy.
+
+---
+
+## Notifications & Permissions
+
 Time to Paws uses Android's local notification system to deliver mindfulness bells. Notifications are generated entirely on-device using scheduled alarms. They do not contact any server, and no push notification service (such as Firebase Cloud Messaging) is used.
+
 The app may request the following permissions:
-POST_NOTIFICATIONS — to display bell reminders
-VIBRATE — to provide haptic feedback with bells
-SCHEDULE_EXACT_ALARM — to schedule bells at precise times
-RECEIVE_BOOT_COMPLETED — to restore scheduled bells after device restart
-BILLING — to offer optional one-time "Support this app" tips via Google Play
+
+- **POST_NOTIFICATIONS** — to display bell reminders
+- **VIBRATE** — to provide haptic feedback with bells
+- **SCHEDULE_EXACT_ALARM** — to schedule bells at precise times
+- **RECEIVE_BOOT_COMPLETED** — to restore scheduled bells after device restart
+- **BILLING** — to offer in-app purchases and optional tips via Google Play
+
 None of these permissions are used to collect or transmit personal data.
-CHILDREN'S PRIVACY
+
+---
+
+## Children's Privacy
+
 This app does not knowingly collect any information from anyone, including children under the age of 13. Since no data is collected from any user, the app is compliant with COPPA and similar regulations.
-SECURITY
+
+---
+
+## Security
+
 Because no personal data is collected or transmitted, there is no risk of data breach from our side. Your preferences are protected by Android's standard app sandboxing mechanism.
-CHANGES TO THIS POLICY
+
+---
+
+## Changes to This Policy
+
 If we update this privacy policy, the revised version will be posted at this URL. We encourage you to review this page periodically. Your continued use of the app after changes are posted constitutes acceptance of the updated policy.
-WELLNESS DISCLAIMER
+
+---
+
+## Wellness Disclaimer
+
 This app is not a medical device and is not a substitute for professional advice.
-TERMS OF USE
+
+---
+
+## Terms of Use
+
 Time to Paws is provided "as is" for personal, non-commercial use, without warranties of any kind. APK Studio is not liable for missed notifications, data loss, or any direct or indirect damages arising from use of the app, which ultimately depends on your device's notification settings, battery optimiser, and OS state.
+
 You may not reverse-engineer, modify, or redistribute the app without permission. By using Time to Paws you acknowledge that you have read and understood these terms.
-CONTACT
-If you have questions about this privacy policy, please contact us at: listenukrainian6@gmail.com
+
+---
+
+## Contact
+
+If you have questions about this privacy policy, please contact us at: **listenukrainian6@gmail.com**
+
+---
+
 © 2025–2026 APK Studio · Time to Paws
